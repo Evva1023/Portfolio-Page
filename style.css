@@ -47,6 +47,7 @@ h3, h4 {
 
 h3 {
     color: #ee3a54;
+    margin: 25px 0;
 }
 
 h4 {
@@ -59,7 +60,6 @@ h4 {
 }
 
 .info-content {
-    padding-top: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -127,7 +127,7 @@ footer {
 
     .info-column {
         width: 40%;
-        margin: 30px 20px 0 0;
+        margin: 10px 20px 0 0;
     }
 
     .projects, footer {
